@@ -8,7 +8,9 @@
     background-color: #a82d9c;
 
  }
-
+@media (max-width: 998px){
+    background-color: white;
+}
  
 .login {
     background-color: white;
