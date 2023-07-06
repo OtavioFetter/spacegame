@@ -9,7 +9,9 @@
 
  }
 @media (max-width: 998px){
-    background-color: white;
+    body {
+        background-color: white;
+    }
 }
  
 .login {
